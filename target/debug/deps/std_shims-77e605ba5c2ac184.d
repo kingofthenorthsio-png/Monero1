@@ -1,0 +1,11 @@
+/workspaces/Monero1/monero-oxide/target/debug/deps/std_shims-77e605ba5c2ac184.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/sync.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/collections.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/io.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/../README.md
+
+/workspaces/Monero1/monero-oxide/target/debug/deps/libstd_shims-77e605ba5c2ac184.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/sync.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/collections.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/io.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/../README.md
+
+/workspaces/Monero1/monero-oxide/target/debug/deps/libstd_shims-77e605ba5c2ac184.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/sync.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/collections.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/io.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/../README.md
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/sync.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/collections.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/io.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/std-shims-0.1.5/src/../README.md:
